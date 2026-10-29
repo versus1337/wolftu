@@ -1,0 +1,5 @@
+C:\Users\xxx\Desktop\wolftu\WolfBypass\bin\Release\net8.0-windows\win-x86\publish\WolfBypass.exe
+C:\Users\xxx\Desktop\wolftu\WolfBypass\bin\Release\net8.0-windows\win-x86\publish\WolfBypass.dll
+C:\Users\xxx\Desktop\wolftu\WolfBypass\bin\Release\net8.0-windows\win-x86\publish\WolfBypass.deps.json
+C:\Users\xxx\Desktop\wolftu\WolfBypass\bin\Release\net8.0-windows\win-x86\publish\WolfBypass.runtimeconfig.json
+C:\Users\xxx\Desktop\wolftu\WolfBypass\bin\Release\net8.0-windows\win-x86\publish\WolfBypass.pdb

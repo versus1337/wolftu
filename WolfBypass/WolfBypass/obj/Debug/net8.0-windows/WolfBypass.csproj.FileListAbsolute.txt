@@ -1,0 +1,14 @@
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net8.0-windows\WolfBypass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net8.0-windows\WolfBypass.AssemblyInfoInputs.cache
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net8.0-windows\WolfBypass.AssemblyInfo.cs
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net8.0-windows\WolfBypass.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\wolftu\WolfBypass\bin\Debug\net8.0-windows\WolfBypass.exe
+C:\Users\xxx\Desktop\wolftu\WolfBypass\bin\Debug\net8.0-windows\WolfBypass.deps.json
+C:\Users\xxx\Desktop\wolftu\WolfBypass\bin\Debug\net8.0-windows\WolfBypass.runtimeconfig.json
+C:\Users\xxx\Desktop\wolftu\WolfBypass\bin\Debug\net8.0-windows\WolfBypass.dll
+C:\Users\xxx\Desktop\wolftu\WolfBypass\bin\Debug\net8.0-windows\WolfBypass.pdb
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net8.0-windows\WolfBypass.dll
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net8.0-windows\refint\WolfBypass.dll
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net8.0-windows\WolfBypass.pdb
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net8.0-windows\WolfBypass.genruntimeconfig.cache
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net8.0-windows\ref\WolfBypass.dll

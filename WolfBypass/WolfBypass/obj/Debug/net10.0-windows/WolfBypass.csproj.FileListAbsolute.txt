@@ -1,0 +1,4 @@
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net10.0-windows\WolfBypass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net10.0-windows\WolfBypass.AssemblyInfoInputs.cache
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net10.0-windows\WolfBypass.AssemblyInfo.cs
+C:\Users\xxx\Desktop\wolftu\WolfBypass\obj\Debug\net10.0-windows\WolfBypass.csproj.CoreCompileInputs.cache
